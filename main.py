@@ -1,3 +1,11 @@
+'''
+	Author:		McSteve Ezikeoha
+	Title:		Encryption Machine
+	Date:		February 9, 2018
+	Description:	A command-line Python program that allows you to encrypt and decrypt text using the Viginère cipher algorithm. 
+			The purpose of this is to learn how to write a Python class and then use it in an application.
+'''
+
 import EBox
 import sys
 import os
